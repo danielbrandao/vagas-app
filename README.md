@@ -1,5 +1,5 @@
 # vagas-app
-
+## Estrutura do projeto
 src/
 ├── assets/
 ├── components/
